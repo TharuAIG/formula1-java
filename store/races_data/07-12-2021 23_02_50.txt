@@ -1,0 +1,3 @@
+2,Yuki Tsunoda,Enstone,AlphaTauri
+3,Lando Norris,Maranello,McLaren
+1,Lois Hamilton,Brackley,Mercedes
